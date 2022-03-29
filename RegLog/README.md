@@ -1,4 +1,4 @@
-@ Registration and Login
+# Registration and Login
 
 Questa cartella contiene tutte le pagine di gestione dei servizi di registrazione e di login.
 
