@@ -1,4 +1,4 @@
-# Video
+# Videos
 
 Semplice cartella contenente i video presenti all'interno del marketplace.
 
