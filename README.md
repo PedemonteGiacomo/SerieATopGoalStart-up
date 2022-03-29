@@ -12,7 +12,6 @@ TO DO:
 
 _____________________________________________________________________________________________________________________________
 
-# SerieATopGoalStart-up
 Beta project created in collaboration with Ali Haider.
 
 This site represents the idea of ​​having a shop of unique collectible, exchangeable, resalable videos through auctions ...
